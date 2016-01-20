@@ -1,3 +1,7 @@
 här skriver vi bara snälla saker om daniel
 
+<<<<<<< HEAD
 hej
+=======
+hej hej hej
+>>>>>>> origin/master
