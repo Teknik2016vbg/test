@@ -3,5 +3,11 @@ här skriver vi bara snälla saker om daniel
 lucas
 =======
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+hej
+=======
+>>>>>>> origin/master
 hej hej hej
 >>>>>>> origin/master
